@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👏My profile
 
-<!--
-**affine1129/affine1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✒️Skills
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=py,angular,ts,tailwind,aws,neovim,docker,git,raspberrypi&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈Status
+
+[![Articles](https://badgen.org/img/qiita/affine92325659/articles?style=flat-square)](https://qiita.com/affine92325659)
+[![Contributions](https://badgen.org/img/qiita/affine92325659/contributions?style=flat-square)](https://qiita.com/affine92325659)
+[![Followers](https://badgen.org/img/qiita/affine92325659/followers?style=flat-square)](https://qiita.com/affine92325659)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affine1129&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=affine1129" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=affine1129)
+
+## 🎵Music
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316j7y7rkrzzmkgtpgsi7nty4ofq&width=500)
+
