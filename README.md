@@ -6,9 +6,13 @@
 
 ## 📈Status
 
+### Qiita
+
 [![Articles](https://badgen.org/img/qiita/affine92325659/articles?style=flat-square)](https://qiita.com/affine92325659)
 [![Contributions](https://badgen.org/img/qiita/affine92325659/contributions?style=flat-square)](https://qiita.com/affine92325659)
 [![Followers](https://badgen.org/img/qiita/affine92325659/followers?style=flat-square)](https://qiita.com/affine92325659)
+
+### Github
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affine1129&layout=compact&show_icons=true" />
